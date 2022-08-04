@@ -1,5 +1,5 @@
 node {
-     stage('chicken') {
-     echo 'nugget'
-}
+    stage('chicken') {
+        echo 'nugget'
+    }
 }
